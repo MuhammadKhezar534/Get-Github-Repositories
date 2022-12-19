@@ -1,0 +1,11 @@
+.container {
+  padding-top: 10%;
+  padding: 100px 30px;
+  height: 100%;
+}
+
+.repo-text {
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 40px;
+}

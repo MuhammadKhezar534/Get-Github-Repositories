@@ -1,0 +1,17 @@
+.input-serach {
+  border: 2px solid #e7e7e7;
+  /* border-bottom: 1px solid #e1e1e1; */
+  padding: 10px;
+  width: 20%;
+  height: 30px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+.input-serach:hover {
+  border: 2px solid red;
+}
+
+.input-serach:focus {
+  outline: none;
+}
